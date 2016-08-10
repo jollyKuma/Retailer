@@ -1,0 +1,14 @@
+C:\Users\Chael\Documents\Visual Studio 2010\Projects\Retailer\Retailer\obj\x86\Debug\Retailer.csprojResolveAssemblyReference.cache
+C:\Users\Chael\Documents\Visual Studio 2010\Projects\Retailer\Retailer\obj\x86\Debug\Retailer.Form1.resources
+C:\Users\Chael\Documents\Visual Studio 2010\Projects\Retailer\Retailer\obj\x86\Debug\Retailer.LoadTracker.resources
+C:\Users\Chael\Documents\Visual Studio 2010\Projects\Retailer\Retailer\obj\x86\Debug\Retailer.Main.resources
+C:\Users\Chael\Documents\Visual Studio 2010\Projects\Retailer\Retailer\obj\x86\Debug\Retailer.MLM.resources
+C:\Users\Chael\Documents\Visual Studio 2010\Projects\Retailer\Retailer\obj\x86\Debug\Retailer.Properties.Resources.resources
+C:\Users\Chael\Documents\Visual Studio 2010\Projects\Retailer\Retailer\obj\x86\Debug\Retailer.ReferralPolicy.resources
+C:\Users\Chael\Documents\Visual Studio 2010\Projects\Retailer\Retailer\obj\x86\Debug\Retailer.TelcoPromo.resources
+C:\Users\Chael\Documents\Visual Studio 2010\Projects\Retailer\Retailer\obj\x86\Debug\Retailer.Ticketing.resources
+C:\Users\Chael\Documents\Visual Studio 2010\Projects\Retailer\Retailer\obj\x86\Debug\Retailer.csproj.GenerateResource.Cache
+C:\Users\Chael\Documents\Visual Studio 2010\Projects\Retailer\Retailer\bin\Debug\Retailer.exe
+C:\Users\Chael\Documents\Visual Studio 2010\Projects\Retailer\Retailer\bin\Debug\Retailer.pdb
+C:\Users\Chael\Documents\Visual Studio 2010\Projects\Retailer\Retailer\obj\x86\Debug\Retailer.exe
+C:\Users\Chael\Documents\Visual Studio 2010\Projects\Retailer\Retailer\obj\x86\Debug\Retailer.pdb
